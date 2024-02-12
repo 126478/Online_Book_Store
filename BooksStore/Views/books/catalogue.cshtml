@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BooksStore.Models.book>
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="container-fluid">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header" style="font-weight: bold>
+                        @item.title
+                    </div>
+                    <div class="card-body text-center">
+                        <div class="text-center">
+                            <img src="~/images/@item.imgfile" height="250" width="150" />
+                        </div>
+                        
+                        <p>@item.info</p>
+                        <p>Author:@item.author</p>
+                        
+                    </div>
+                    <div class="card-footer d-flex justify-content-between">
+                        <a asp-controller="orders" asp-action="Create" asp-route-id="@item.Id">Buy</a>
+                        <p class="text-right">Price: @item.price $</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

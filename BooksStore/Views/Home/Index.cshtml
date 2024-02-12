@@ -1,0 +1,186 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Style CSS */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        #sidebar {
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .nav-link {
+            color: #333;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+
+            .nav-link:hover {
+                background-color: #eee;
+            }
+
+        .col-md-3 {
+            width: 15%;
+            float: left;
+        }
+
+        .content {
+            float: left;
+            width: 85%;
+            padding: 10px;
+        }
+
+        /* Diagram style */
+        .diagram-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+
+        .diagram {
+            background-color: #fff;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            flex-grow: 1;
+            margin-right: 10px;
+            width: 30%; /* Taille du diagramme */
+        }
+
+            .diagram h2 {
+                margin-top: 0;
+                font-size: 12px;
+                color: #333;
+            }
+    </style>
+</head>
+<body>
+    <div id="sidebar" class="col-md-3 ">
+        <ul class="nav flex-column" );>
+            <h4>Tableau de gestions</h4>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Create"></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">Go to the Manage Books page </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="orders" asp-action="customerreport">Go to the Order reports page</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="usersaccounts" asp-action="Index">Go to the Customers List page</a>
+            </li>
+        </ul>
+    </div>
+    <div class="content">
+        <!-- Diagramme pour la gestion des clients à gauche -->
+        <div class="diagram-container">
+            <div class="diagram">
+                <h2>Gestion des clients</h2>
+                <canvas id="customerChart" width="150" height="150"></canvas>
+            </div>
+            <!-- Diagramme pour les rapports de commande à droite -->
+            <div class="diagram">
+                <h2>Rapports de commande</h2>
+                <canvas id="orderChart" width="150" height="150"></canvas>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Données pour le diagramme de la liste des clients
+        var customerData = {
+            labels: ['Acheteurs', 'Visiteurs', 'Abonnés'],
+            datasets: [{
+                label: 'Répartition des clients',
+                data: [150, 100, 90],
+                backgroundColor: [
+                    'rgba(255, 0, 0, 0.5)',  // Rouge
+                    'rgba(0, 255, 0, 0.5)',  // Vert
+                    'rgba(0, 0, 255, 0.5)'   // Bleu
+                ],
+                borderColor: [
+                    'rgba(255, 0, 0, 1)',  // Rouge
+                    'rgba(0, 255, 0, 1)',  // Vert
+                    'rgba(0, 0, 255, 1)'   // Bleu
+                ],
+                borderWidth: 1
+            }]
+        };
+
+        // Configuration du diagramme de la liste des clients
+        var customerOptions = {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        };
+
+        // Création du diagramme de la liste des clients
+        var customerCtx = document.getElementById('customerChart').getContext('2d');
+        var customerChart = new Chart(customerCtx, {
+            type: 'doughnut',
+            data: customerData,
+            options: customerOptions
+        });
+
+        // Données pour le diagramme des rapports de commande
+        var orderData = {
+            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
+            datasets: [{
+                label: 'Nombre de Rapports de Commande',
+                data: [50, 30, 40, 60, 45, 55],
+                backgroundColor: [
+                    'rgba(148,0,211, 0.5)',   // Violet
+                    'rgba(135,206,250, 0.5)', // Bleu ciel
+                    'rgba(255,192,203, 0.5)'  // Rose
+                ],
+                borderColor: [
+                    'rgba(148,0,211, 1)',   // Violet
+                    'rgba(135,206,250, 1)', // Bleu ciel
+                    'rgba(255,192,203, 1)'  // Rose
+                ],
+                borderWidth: 1
+            }]
+        };
+
+        // Configuration du diagramme des rapports de commande
+        var orderOptions = {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        };
+
+        // Création du diagramme des rapports de commande
+        var orderCtx = document.getElementById('orderChart').getContext('2d');
+        var orderChart = new Chart(orderCtx, {
+            type: 'line',
+            data: orderData,
+            options: orderOptions
+        });
+    </script>
+</body>
+</html>
+
+

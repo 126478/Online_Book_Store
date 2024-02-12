@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BooksStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\mystyle.css",
+      "PackagePath": "staticwebassets\\css\\mystyle.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\9782253934103-001-T.jpeg",
+      "PackagePath": "staticwebassets\\images\\9782253934103-001-T.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\cc.jpg",
+      "PackagePath": "staticwebassets\\images\\cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\dd2.jpeg",
+      "PackagePath": "staticwebassets\\images\\dd2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\l22.jpeg",
+      "PackagePath": "staticwebassets\\images\\l22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\liv2.jpeg",
+      "PackagePath": "staticwebassets\\images\\liv2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\liv33.jpeg",
+      "PackagePath": "staticwebassets\\images\\liv33.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\liv5.jpeg",
+      "PackagePath": "staticwebassets\\images\\liv5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\liv55.jpeg",
+      "PackagePath": "staticwebassets\\images\\liv55.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\liv7.jpeg",
+      "PackagePath": "staticwebassets\\images\\liv7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\livre1.jpeg",
+      "PackagePath": "staticwebassets\\images\\livre1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\q.jpeg",
+      "PackagePath": "staticwebassets\\images\\q.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\qqa.jpeg",
+      "PackagePath": "staticwebassets\\images\\qqa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\images\\ree.jpeg",
+      "PackagePath": "staticwebassets\\images\\ree.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\about-img.png",
+      "PackagePath": "staticwebassets\\imges\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\b1.jpg",
+      "PackagePath": "staticwebassets\\imges\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\b2.jpg",
+      "PackagePath": "staticwebassets\\imges\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\c1.jpg",
+      "PackagePath": "staticwebassets\\imges\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\c2.jpg",
+      "PackagePath": "staticwebassets\\imges\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\c3.jpg",
+      "PackagePath": "staticwebassets\\imges\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat1.png",
+      "PackagePath": "staticwebassets\\imges\\cat1.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat2.png",
+      "PackagePath": "staticwebassets\\imges\\cat2.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat3.png",
+      "PackagePath": "staticwebassets\\imges\\cat3.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat4.png",
+      "PackagePath": "staticwebassets\\imges\\cat4.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat5.png",
+      "PackagePath": "staticwebassets\\imges\\cat5.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\cat6.png",
+      "PackagePath": "staticwebassets\\imges\\cat6.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\imges\\contact-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\contact-img.png",
+      "PackagePath": "staticwebassets\\imges\\contact-img.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\favicon.png",
+      "PackagePath": "staticwebassets\\imges\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\imj.png",
+      "PackagePath": "staticwebassets\\imges\\imj.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\imk.png",
+      "PackagePath": "staticwebassets\\imges\\imk.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\ll.png",
+      "PackagePath": "staticwebassets\\imges\\ll.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\mk.png",
+      "PackagePath": "staticwebassets\\imges\\mk.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\mm.webp",
+      "PackagePath": "staticwebassets\\imges\\mm.webp"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\imges\\slider-img.png",
+      "PackagePath": "staticwebassets\\imges\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aya\\source\\repos\\BooksStore\\BooksStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BooksStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BooksStore.props",
+      "PackagePath": "build\\BooksStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksStore.props",
+      "PackagePath": "buildMultiTargeting\\BooksStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BooksStore.props",
+      "PackagePath": "buildTransitive\\BooksStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

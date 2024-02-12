@@ -1,8 +1,8 @@
 # Book Store
 An online eCommerce web store, built with ASP.NET MVC in C#.
 ## Technologies used
-+ASP.NET Core Razor Pages
-+Entity Framework Core 6.0
++ ASP.NET Core Razor Pages
++ Entity Framework Core 6.0
 # Getting Started
 ## Prerequisites
 + Visual Studio 2022

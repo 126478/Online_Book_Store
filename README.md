@@ -25,7 +25,7 @@ https://github.com/126478/Online_Book_Store.git
 ![WhatsApp Image 2024-02-12 at 00 53 05](https://github.com/126478/Online_Book_Store/assets/119810118/f704b1a1-ee72-482d-922b-b6eb0cb08b89)
 ## My Orders
 ![WhatsApp Image 2024-02-12 at 00 53 10](https://github.com/126478/Online_Book_Store/assets/119810118/89d6521f-9eb3-4673-8764-63178e97d378)
-## Admin space
+## Admin Space
 ![WhatsApp Image 2024-02-12 at 00 53 11](https://github.com/126478/Online_Book_Store/assets/119810118/e2485689-abb7-42c9-8a45-df422000fa27)
 ![WhatsApp Image 2024-02-12 at 00 53 11 (1)](https://github.com/126478/Online_Book_Store/assets/119810118/80fdde2d-bac4-4043-a692-d929c22dbf40)
 ## Customers List

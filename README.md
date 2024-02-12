@@ -16,7 +16,7 @@ https://github.com/126478/Online_Book_Store.git
 # Screenshots
 ## Home
 ![home (1)](https://github.com/126478/Online_Book_Store/assets/119810118/9f032c40-09d1-43a4-b588-9c15e46e8ac2)
-## Cataloge
+## Client Space
 ![partie_client](https://github.com/126478/Online_Book_Store/assets/119810118/7a72475a-0ac7-4f82-86cb-f8cf1388cdf3)
 ## Create Account
 ![WhatsApp Image 2024-02-12 at 00 52 58](https://github.com/126478/Online_Book_Store/assets/119810118/a5604910-c96b-4340-bd1a-ae7300ed5f5a)

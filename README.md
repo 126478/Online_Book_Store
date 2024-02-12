@@ -5,8 +5,8 @@ An online eCommerce web store, built with ASP.NET MVC in C#.
 +Entity Framework Core 6.0
 # Getting Started
 ## Prerequisites
-+Visual Studio 2022
-+.NET 6
++ Visual Studio 2022
++ .NET 6
 ## Installation
 ```
 https://github.com/126478/Online_Book_Store.git

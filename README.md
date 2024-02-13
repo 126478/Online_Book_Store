@@ -16,10 +16,10 @@ https://github.com/126478/Online_Book_Store.git
 # Screenshots
 ## Home
 ![home (1)](https://github.com/126478/Online_Book_Store/assets/119810118/9f032c40-09d1-43a4-b588-9c15e46e8ac2)
-## Client Space
-![oaceclient](https://github.com/126478/Online_Book_Store/assets/119810118/b9c0969b-5ca9-48d8-a6e8-4e38e62fde21)
 ## Create Account
 ![WhatsApp Image 2024-02-12 at 00 52 58](https://github.com/126478/Online_Book_Store/assets/119810118/a5604910-c96b-4340-bd1a-ae7300ed5f5a)
+## Client Space
+![cl](https://github.com/126478/Online_Book_Store/assets/119810118/4916a06f-dc1a-4a26-9364-9706de932ad3)
 ## Book Details
 ![WhatsApp Image 2024-02-12 at 00 53 05](https://github.com/126478/Online_Book_Store/assets/119810118/f704b1a1-ee72-482d-922b-b6eb0cb08b89)
 ## My Orders
